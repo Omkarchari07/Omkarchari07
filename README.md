@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ganesh Chari
+# Hi 👋, I'm Omkar Chari
 
 ## 💻 Aspiring IT Support & AI Enthusiast
 
