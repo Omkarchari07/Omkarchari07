@@ -150,19 +150,6 @@ Features:
 
 # 💼 Experience
 
-## Intel Innovation Program
-
-Participated in innovation-focused projects and technology initiatives involving software development and AI concepts.
-
-### Skills Gained
-
-- Problem Solving
-- Team Collaboration
-- Software Development Fundamentals
-- Innovation Methodologies
-
----
-
 ## Software Quality Assurance Intern
 
 Worked in software testing and quality assurance.
@@ -190,7 +177,7 @@ Worked in software testing and quality assurance.
 
 # 📜 Certifications
 
-### Completed / In Progress
+### / In Progress
 
 - CompTIA A+ (In Progress)
 - Google IT Support Professional Certificate
@@ -220,7 +207,7 @@ Worked in software testing and quality assurance.
 # 📫 Connect With Me
 
 - GitHub: https://github.com/Omkarchari07
-- LinkedIn: Add Your LinkedIn Profile Here
+- LinkedIn:
 
 ---
 
